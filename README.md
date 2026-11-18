@@ -1,9 +1,9 @@
 # Opening and Closing Operations Using OpenCV
 
 Developed By
-Name: A.Ajayprabu
+Name: Yuuvasri R
 
-Register No: 212225220005
+Register No: 212225230313
 
 # Aim
 To write a Python program using OpenCV to perform morphological Opening and Closing operations on an image.
